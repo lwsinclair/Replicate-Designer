@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/noeltg77-replicate-designer-badge.png)](https://mseep.ai/app/noeltg77-replicate-designer)
+
 # Replicate Designer MCP
 
 An MCP server for generating images using Replicate's Flux 1.1 Pro model.
